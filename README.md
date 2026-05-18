@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakash Karmakar</h1>
-<h3 align="center">🎓 Student | 💻 Machine Learning Enthusiast | 🌱 AI Developer</h3>
+<h3 align="center">🎓 Student | Machine Learning Enthusiast | AI Developer</h3>
 
-- 🔭 I’m currently working on **Ai & ML Projects**
+- I’m currently working on **Ai & ML Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Graph Neural Networks (GCN), LLMs, Advanced Model Optimization**
+- I’m currently learning **Deep Learning, Graph Neural Networks (GCN), LLMs, Advanced Model Optimization**
 
-- 👯 I’m looking to collaborate on **Multimodal ML & AI Research Projects**
+-  I’m looking to collaborate on **Multimodal ML & AI Research Projects**
 
 - 🤝 I’m looking for help with **Advanced Deep Learning (GCN Optimization, Embeddings, Model Tuning)**
 
