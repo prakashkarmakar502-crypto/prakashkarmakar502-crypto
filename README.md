@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prakash Karmakar</h1>
-<h3 align="center">🎓 MCA Graduate |Python Full Stack Developer| Machine Learning Enthusiast | AI Developer</h3>
+<h3 align="center">🎓 MCA Graduate | Python Full Stack Developer | AI & Machine Learning Engineer | AI Research Enthusiast</h3>
 
-- I’m currently working on **Ai & ML Projects**
+- I’m currently building **Ai powered applications, Full Stack projects, and Computer Vision solutions**
 
-- I’m currently learning **Deep Learning, Graph Neural Networks (GCN), LLMs, Advanced Model Optimization**
+- I’m currently learning **Generative AI, LangGraph, LLM Agent, RAG, Advanced Deep Learning**
 
--  I’m looking to collaborate on **Multimodal ML & AI Research Projects**
+-  I’m looking to collaborate on **AI, Data Analytics, Computer Vision, LLM, and Full Stack Development projects**
 
-- 🤝 I’m looking for help with **Advanced Deep Learning (GCN Optimization, Embeddings, Model Tuning)**
+- 🤝 I’m looking for opportunities to contribute to **AI, Machine Learning, and Full Stack Development projects.**
 
-- 💬 Ask me about **Machine Learning, Data Science, Model Training, Optuna Tuning, Python**
+- 💬 Ask me about **Python, Machine Learning, Data Science, Deep Learning, FastAPI, Flutter, YOLOv8, LangGraph, React, SQL, and AI Applications**
 
 - 📫 How to reach me **prakashkarmakar502@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prakash-karmakar-abaa93280](https://www.linkedin.com/in/prakash-karmakar-abaa93280)
 
-- ⚡ Fun fact **I Think I am Friendly**
+- ⚡ Fun fact **I enjoy building AI-powered applications and solving real-world problems with technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
