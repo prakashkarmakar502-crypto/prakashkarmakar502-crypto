@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Karmakar</h1>
-<h3 align="center">🎓 Student | Machine Learning Enthusiast | AI Developer</h3>
+<h3 align="center">🎓 Graduated |Python Full Stack Developer| Machine Learning Enthusiast | AI Developer</h3>
 
 - I’m currently working on **Ai & ML Projects**
 
